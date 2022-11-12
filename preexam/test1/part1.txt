@@ -1,0 +1,19 @@
+状況を説明するので、選択肢を選ぶ
+
+1.c
+    この中から選ぶ
+    a. he is reaching for a jacket.
+    b. he is assembling a machine
+    c. he is seated at the table.  #s/the/a/
+      at a table : テーブルに座っている
+    d. he is drinking from a cup.  
+3.b
+    a. they are waiting inline.
+    b. they are looking different direction. #s/different/indifferent/
+    c. one of the man stack in chair. #s/man/men s/stack in chair/ is stacking chair.
+    d. one of the man is taking off his cap. #s/man/men
+6. c 
+    a. sofas were has been set for diners # s/sofas were/silverware/ 
+    b. some door has been held open # s/ some door/ some doors/ s/ has been held open/ are being held open/
+    c. around just have been luminated by light. #s/around/A lounge/ s/have been luminated/is being illuminated/ s/light/ lights/
+    d. a wooden floor has been sweeped clean. #s/has/is/ s/sweeped/swept

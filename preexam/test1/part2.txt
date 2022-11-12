@@ -1,0 +1,67 @@
+11. 
+  Can we meet this afternoon?
+    a. this is anywhere i have. #s/anywhere/the only one/
+    b. i need to check my carrender. #s/carrender/calender/
+    c. *** sometimes too. #s/***/I go there/
+
+  b
+
+12.
+  Where is photo-copy going to be placed? #s/photo-copy/photocopier/ 
+    a. there are stay.i guess. #s/there are stay/Thursday/
+    b. in the hole. for now.  #s/hole/hall/ s/.//
+    c. yeah. you right.       #s/you/you're/
+  b
+
+13.
+  Why is rights on *** flow? #s/Why is rights on *** flow?/Why are the lights on on the floor?/
+    a. It's TowerBuilding. Isn't it? #s/It's Tower Building/It's a tall building, isn't it?/
+    b. Until September 4th.
+    c. The sails department *** meeting. #s/sails/sales/ s/***/is in a/
+
+    a -> c 
+21.
+  There are a lot of applicance for receptio** position. Aren't there. #s/receptio**/receptionist/ 
+    a. Yes. **'ll be busy with interviews. #s/**/we/ 
+    b. The personal director. #s/personal/personnel/
+    c. We looking fortitude. #s/We looking fortitude/We're all looking forward to it./
+
+    a
+22.
+  Why have Deny of the commercial been broadcast yet. #s/have Deny/haven't any/
+    a. No, not yet.            
+    b. Ive already bought one. 
+    c. because i waiting for the product-launch #s/i/we're/
+
+    c
+
+23.
+  Are you still on *** avenue? #s/***/Linden/
+    a. right after lunch
+    b. i'm running resolate #s/resolate/a little late/
+    c. No,It's not new. #s/not new/not that new/
+
+    c -> b
+
+27.
+  Traffic is always heavy in the afternoon.
+    a. i cant lift myself. #s/lift/lift it/
+    b. we should leave soon then. 
+    c. i've been here morning. #s/morning/ all morning/
+
+    b
+28.
+  Where is the retirement party being held?
+    a. from 2 oclock
+    b. i didnt think you alive on time. #s/you alive/ you'd arrive on time/
+    c. if theres enough money.
+
+  a -> b
+
+30.
+  Lets *** the cater for prices ***. #s/***/ask the caterer/ s/prices/ a price/ s/***/estimate/
+    a. Sure,I'll take care of that.
+    b. I'm certain she is.
+    c. I don't like either of them.
+
+  a
